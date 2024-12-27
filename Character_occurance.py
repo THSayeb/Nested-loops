@@ -5,7 +5,6 @@ i = 0
 count = 0
 
 while i < len(string):
-    j = 0
     if string[i] == cha:
         count += 1
     i += 1
